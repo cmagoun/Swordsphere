@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="hexagonal" renderorder="right-down" width="20" height="20" tilewidth="120" tileheight="210" hexsidelength="0" staggeraxis="y" staggerindex="odd" nextobjectid="1">
+ <tileset firstgid="1" name="hexagonAll_sheet" tilewidth="120" tileheight="140" spacing="2">
+  <image source="../hexagonAll_sheet.png" width="2048" height="2048"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0c0NgCAMgNEeWUDilWEYwREYQTbADRjBXRhLTNrYNPyIerTJFw7oC6gHgDnn4Zvx2IbZnBbR3jTokrc0TCp2PHJo5abFUi4wT3dMzUxyHfNXLA54ZJ6OwtUyS36H2qTCsw7TBQug7kknsHasdCZ1467SC407mool3w9w/Uvutc7TM03nbKPeU0eOdN56//zTmgOEnyko
+  </data>
+ </layer>
+</map>
