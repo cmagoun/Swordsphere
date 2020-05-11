@@ -1,0 +1,5 @@
+Hearts -- armor, skills with C, heals or otherwise assists players
+Diamonds -- defense, movement, skills with W, S 
+Spades -- damage, rage, skills with R or P
+Clubs -- accuracy, skills with M, T
+Jokers -- insp, can be used for anything and rerolls
